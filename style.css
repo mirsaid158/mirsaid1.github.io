@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+title{
+  color: blue;
+}
+.p{
+  color: yellow;
+}
+body{
+  background-color: rgb(153,102,153)
+}
